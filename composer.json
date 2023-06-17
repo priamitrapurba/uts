@@ -1,0 +1,17 @@
+{
+    "name": "uts",
+    "description": "UTS Pemrograman Berbasis Web Lanjutan Tahun 2023",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pria Mitra Purba",
+            "email": "priamitrapurba2@gmail.com"
+        }
+    ],
+    "require": {}
+}
